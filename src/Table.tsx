@@ -1,10 +1,11 @@
 import * as React from "react";
 import {TableHeader} from "./TableHeader";
 import {TableBody} from "./TableBody";
-import {View} from "@react-pdf/renderer";
+import ReactPDF, {View} from "@react-pdf/renderer";
 
 interface TableProps {
     data?: any[];
+    style?: ReactPDF.Style,
 }
 
 export class Table extends React.PureComponent<TableProps> {
@@ -26,6 +27,7 @@ export class Table extends React.PureComponent<TableProps> {
             <View
                 style={{
                     width: "100%",
+                    ...this.props.style,
                 }}
             >
                 {tableHeader}
