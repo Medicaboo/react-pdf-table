@@ -1,4 +1,5 @@
-# @david.kucsai/react-pdf-table
+# @medicaboo/react-pdf-table
+**This is an imported package from @david.kucsai/react-pdf-table**
 
 This library is designed to be used with [@react-pdf/renderer](https://www.npmjs.com/package/@react-pdf/renderer).
 
