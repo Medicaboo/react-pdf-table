@@ -1,7 +1,6 @@
 {
   "name": "@medicaboo/react-pdf-table",
   "version": "0.4.0",
-  "private": "true",
   "description": "Provides tables for the @react-pdf/renderer.",
   "main": "./lib/index.js",
   "scripts": {
@@ -11,9 +10,9 @@
     "prepublish": "npm run build",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook -o docs",
-    "build-doco": "typedoc --plugin typedoc-plugin-markdown --out docs/typedoc --mode modules src"
+    "build-doco": "typedoc --plugin typedoc-plugin-markdown --out docs/typedoc src"
   },
-  "author": "David Kucsai",
+  "author": "medicaboo",
   "license": "MIT",
   "peerDependencies": {
     "@react-pdf/renderer": "^1.6.8",
@@ -57,8 +56,8 @@
     "sinon": "^7.3.2",
     "ts-jest": "^24.0.2",
     "ts-loader": "^6.0.3",
-    "typedoc": "^0.16.9",
-    "typedoc-plugin-markdown": "^2.2.16",
+    "typedoc": "^0.20.20",
+    "typedoc-plugin-markdown": "^3.4.5",
     "typescript": "^3.7.5",
     "webpack": "^4.35.0",
     "webpack-cli": "^3.3.4",
@@ -74,12 +73,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmk99/react-pdf-table.git"
+    "url": "git+https://github.com/medicaboo/react-pdf-table.git"
   },
   "bugs": {
-    "url": "https://github.com/dmk99/react-pdf-table/issues"
+    "url": "https://github.com/medicaboo/react-pdf-table/issues"
   },
-  "homepage": "https://github.com/dmk99/react-pdf-table.git#README",
+  "homepage": "https://github.com/medicaboo/react-pdf-table.git#README",
   "types": "./lib/index.d.ts",
   "dependencies": {}
 }
