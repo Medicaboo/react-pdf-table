@@ -45,7 +45,3 @@ jspm_packages
 *.iml
 package-lock.json
 yarn.lock
-
-### ignore generated files
-docs
-lib
