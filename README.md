@@ -1,5 +1,6 @@
 # @medicaboo/react-pdf-table
-**This is an imported package from @david.kucsai/react-pdf-table**
+**This is an imported package from @david.kucsai/react-pdf-table meant for personal use**
+**If you intend to use it, use at your own risk**
 
 This library is designed to be used with [@react-pdf/renderer](https://www.npmjs.com/package/@react-pdf/renderer).
 
