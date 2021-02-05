@@ -12,23 +12,23 @@ To get started run:
 ```
  npm install "@david.kucsai/react-pdf-table"
  ```
- 
+
  On Windows you must escape the '.':
  ```
  npm install "@david`.kucsai/react-pdf-table"
  ```
- 
+
 
 ## Documentation
 
-Refer to [API Documentation](https://github.com/dmk99/react-pdf-table/tree/master/docs/typedoc/README.md) for the type definitions.
+Refer to [API Documentation](https://github.com/Medicaboo/react-pdf-table/tree/master/docs/typedoc/README.md) for the type definitions.
 
 ### Notes
 
-- Layout uses `flex` behind the scenes. 
+- Layout uses `flex` behind the scenes.
 - If `weighting` is not defined for a table cell then it will default to the remaining unassigned weightings.
     - `weighting` should be between 0..1. Preferably adding up to `<= 1`.
-- If you have lots of rows to display it's recommended to batch up the rows and render them on separate pages to ensure 
+- If you have lots of rows to display it's recommended to batch up the rows and render them on separate pages to ensure
     that values are not cut off.
 - Content in `TableCell` and `DataTableCell` must either evaluate to a `string` or a `@react-pdf/renderer` component
 e.g. `View`, `Text` etc. If the content is a `string` it will be wrapped with a `Text` element.
@@ -129,7 +129,7 @@ To run the storybook:
 yarn storybook
 ```
 
-Compile to typescript: 
+Compile to typescript:
 ```
 yarn recompile
 ```
