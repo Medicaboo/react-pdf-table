@@ -442,7 +442,7 @@ ___
 
 **Returns:** *Element*
 
-Defined in: [src/Table.tsx:12](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/Table.tsx#L12)
+Defined in: [src/Table.tsx:12](https://github.com/Medicaboo/react-pdf-table/blob/9b1c3ff/src/Table.tsx#L12)
 
 ___
 
