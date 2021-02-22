@@ -11,7 +11,11 @@ interface DataTableCellProps extends TableCellProps {
      * The content to display for this cell.
      * @param data the data passed in.
      */
-    getContent: (data: any) => React.ReactNode | JSX.Element | string | number;
+    getContent: (data: any, columnIndex: number) => React.ReactNode | JSX.Element | string | number;
+    /**
+     * Number of currently iterated column
+     */
+    columnIndex: number;
 }
 
 /**
@@ -23,7 +27,7 @@ export class DataTableCell extends React.PureComponent<DataTableCellProps> {
             <TableCell
                 {...this.props}
             >
-                {this.props.getContent(this.props.data)}
+                {this.props.getContent(this.props.data, this.props.columnIndex)}
             </TableCell>
         )
     }

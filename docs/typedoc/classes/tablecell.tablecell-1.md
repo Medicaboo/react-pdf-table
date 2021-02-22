@@ -444,7 +444,7 @@ ___
 
 **Returns:** *Element*
 
-Defined in: [src/TableCell.tsx:63](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L63)
+Defined in: [src/TableCell.tsx:63](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L63)
 
 ___
 

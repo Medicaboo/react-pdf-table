@@ -32,7 +32,7 @@ The data associated with the table.
 
 Overrides: [TableRowProps](tablerow.tablerowprops.md).[data](tablerow.tablerowprops.md#data)
 
-Defined in: [src/TableBody.tsx:9](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableBody.tsx#L9)
+Defined in: [src/TableBody.tsx:9](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableBody.tsx#L9)
 
 ___
 
@@ -44,7 +44,7 @@ The font size as a valid unit defined in react-pdf.
 
 Inherited from: [TableRowProps](tablerow.tablerowprops.md).[fontSize](tablerow.tablerowprops.md#fontsize)
 
-Defined in: [src/TableRow.tsx:12](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableRow.tsx#L12)
+Defined in: [src/TableRow.tsx:12](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableRow.tsx#L12)
 
 ___
 
@@ -56,7 +56,7 @@ Include the bottom border. Default true.
 
 Inherited from: [TableRowProps](tablerow.tablerowprops.md).[includeBottomBorder](tablerow.tablerowprops.md#includebottomborder)
 
-Defined in: [src/TableCell.tsx:23](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L23)
+Defined in: [src/TableCell.tsx:23](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L23)
 
 ___
 
@@ -68,7 +68,7 @@ Include the left border. Default true.
 
 Inherited from: [TableRowProps](tablerow.tablerowprops.md).[includeLeftBorder](tablerow.tablerowprops.md#includeleftborder)
 
-Defined in: [src/TableCell.tsx:28](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L28)
+Defined in: [src/TableCell.tsx:28](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L28)
 
 ___
 
@@ -80,7 +80,7 @@ Include the right border. Default true.
 
 Inherited from: [TableRowProps](tablerow.tablerowprops.md).[includeRightBorder](tablerow.tablerowprops.md#includerightborder)
 
-Defined in: [src/TableCell.tsx:18](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L18)
+Defined in: [src/TableCell.tsx:18](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L18)
 
 ___
 
@@ -92,7 +92,7 @@ Include the top border. Default true.
 
 Inherited from: [TableRowProps](tablerow.tablerowprops.md).[includeTopBorder](tablerow.tablerowprops.md#includetopborder)
 
-Defined in: [src/TableCell.tsx:13](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L13)
+Defined in: [src/TableCell.tsx:13](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L13)
 
 ___
 
@@ -104,4 +104,4 @@ Whether to align the text. Defaults to left.
 
 Inherited from: [TableRowProps](tablerow.tablerowprops.md).[textAlign](tablerow.tablerowprops.md#textalign)
 
-Defined in: [src/TableRow.tsx:17](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableRow.tsx#L17)
+Defined in: [src/TableRow.tsx:17](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableRow.tsx#L17)

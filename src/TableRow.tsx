@@ -59,6 +59,7 @@ export class TableRow extends React.PureComponent<Partial<TableBodyProps>> {
                     rowCells.map((rc, columnIndex) => React.cloneElement(rc, {
                         weighting: rc.props.weighting ?? weightingsPerNotSpecified,
                         data: this.props.data,
+                        columnIndex,
                         key: columnIndex,
                         fontSize: this.props.fontSize,
                         textAlign: this.props.textAlign,

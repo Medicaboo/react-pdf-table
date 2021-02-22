@@ -28,7 +28,7 @@ Depending on the context some toggles will not have any effect.
 
 Include the bottom border. Default true.
 
-Defined in: [src/TableCell.tsx:23](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L23)
+Defined in: [src/TableCell.tsx:23](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L23)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 Include the left border. Default true.
 
-Defined in: [src/TableCell.tsx:28](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L28)
+Defined in: [src/TableCell.tsx:28](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L28)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 Include the right border. Default true.
 
-Defined in: [src/TableCell.tsx:18](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L18)
+Defined in: [src/TableCell.tsx:18](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L18)
 
 ___
 
@@ -58,4 +58,4 @@ ___
 
 Include the top border. Default true.
 
-Defined in: [src/TableCell.tsx:13](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L13)
+Defined in: [src/TableCell.tsx:13](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L13)

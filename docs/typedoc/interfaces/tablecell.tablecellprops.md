@@ -32,7 +32,7 @@
 
 The font-size to apply to the cell.
 
-Defined in: [src/TableCell.tsx:56](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L56)
+Defined in: [src/TableCell.tsx:56](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L56)
 
 ___
 
@@ -44,7 +44,7 @@ Include the bottom border. Default true.
 
 Inherited from: [TableBorder](tablecell.tableborder.md).[includeBottomBorder](tablecell.tableborder.md#includebottomborder)
 
-Defined in: [src/TableCell.tsx:23](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L23)
+Defined in: [src/TableCell.tsx:23](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L23)
 
 ___
 
@@ -56,7 +56,7 @@ Include the left border. Default true.
 
 Inherited from: [TableBorder](tablecell.tableborder.md).[includeLeftBorder](tablecell.tableborder.md#includeleftborder)
 
-Defined in: [src/TableCell.tsx:28](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L28)
+Defined in: [src/TableCell.tsx:28](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L28)
 
 ___
 
@@ -68,7 +68,7 @@ Include the right border. Default true.
 
 Inherited from: [TableBorder](tablecell.tableborder.md).[includeRightBorder](tablecell.tableborder.md#includerightborder)
 
-Defined in: [src/TableCell.tsx:18](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L18)
+Defined in: [src/TableCell.tsx:18](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L18)
 
 ___
 
@@ -80,7 +80,7 @@ Include the top border. Default true.
 
 Inherited from: [TableBorder](tablecell.tableborder.md).[includeTopBorder](tablecell.tableborder.md#includetopborder)
 
-Defined in: [src/TableCell.tsx:13](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L13)
+Defined in: [src/TableCell.tsx:13](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L13)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 Whether this is a header cell or not. If not defined it will be false.
 
-Defined in: [src/TableCell.tsx:51](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L51)
+Defined in: [src/TableCell.tsx:51](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L51)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 Extra styling to apply. These will override existing style with the same key.
 
-Defined in: [src/TableCell.tsx:41](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L41)
+Defined in: [src/TableCell.tsx:41](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L41)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 How to align the text
 
-Defined in: [src/TableCell.tsx:46](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L46)
+Defined in: [src/TableCell.tsx:46](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L46)
 
 ___
 
@@ -121,4 +121,4 @@ ___
 The weighting of a cell based on the flex layout style.
 This value is between 0..1, if not specified 1 is assumed, this will take up the remaining available space.
 
-Defined in: [src/TableCell.tsx:36](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/TableCell.tsx#L36)
+Defined in: [src/TableCell.tsx:36](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/TableCell.tsx#L36)

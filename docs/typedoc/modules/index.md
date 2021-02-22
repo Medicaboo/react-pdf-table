@@ -40,7 +40,7 @@ Name | Type | Description |
 
 **Returns:** [*TableBorder*](../interfaces/tablecell.tableborder.md)
 
-Defined in: [src/Utils.ts:9](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/Utils.ts#L9)
+Defined in: [src/Utils.ts:9](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/Utils.ts#L9)
 
 ___
 
@@ -67,4 +67,4 @@ Name | Type | Description |
 
 an array of items or an empty array.
 
-Defined in: [src/Utils.ts:25](https://github.com/Medicaboo/react-pdf-table/blob/146ee4e/src/Utils.ts#L25)
+Defined in: [src/Utils.ts:25](https://github.com/Medicaboo/react-pdf-table/blob/6c04208/src/Utils.ts#L25)
